@@ -5,8 +5,7 @@
 - Currently I am learning React with BloomTech. On the side I am self-studying Python, as well as Spanish.   
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- You can reach me on Linked in at https://www.linkedin.com/in/sabrina-gehrke-80970a239/
-
+- You can reach me on Linked in at https://www.linkedin.com/in/sabrina-mykrantz-/
 <!---
 Smg21/Smg21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
