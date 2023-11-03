@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabrina Mykrantz</h1>
-<h3 align="center">A passionate frontend developer from Arizona</h3>
+<h3 align="center">A passionate fullstack developer from Arizona</h3>
 
 - 🔭 I’m currently working on **A website to upload recipes onto**
 
