@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabrina Mykrantz</h1>
 <h3 align="center">A passionate fullstack developer from Arizona</h3>
 
-- 🔭 I’m currently working on **A website to upload recipes onto**
+- 🔭 I’m currently working on **A Recipe Website**
 
 - 🌱 I’m currently learning **Python while also completing my Full-Stack Web Development Bootcamp**
 
