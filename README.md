@@ -1,4 +1,6 @@
-[![twitter](https://img.shields.io/twitter/follow/smg_211?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/smg_211) <a href="https://wakatime.com/@445db8e0-89e1-4518-9f33-81ecab125d99"><img src="https://wakatime.com/badge/user/445db8e0-89e1-4518-9f33-81ecab125d99.svg" alt="Total time coded since Apr 28 2024" /></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/sabrina-mykrantz-/)
+[![twitter](https://img.shields.io/twitter/follow/smg_211?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/smg_211) <a href="https://wakatime.com/@445db8e0-89e1-4518-9f33-81ecab125d99"><img src="https://wakatime.com/badge/user/445db8e0-89e1-4518-9f33-81ecab125d99.svg" alt="Total time coded since Apr 28 2024" /></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/sabrina-mykrantz-/) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat-square&logo=hackerrank&logoColor=white&color=2EC866)](https://www.hackerrank.com/profile/smg21022) [![CodeSignal](https://img.shields.io/badge/CodeSignal-Profile-informational?style=flat-square&logo=codeforces&logoColor=white&color=1F8ACB)](https://app.codesignal.com/profile/sabrina)
+
+
 
 <h1 align="center">Hi 👋, I'm Sabrina Mykrantz</h1>
 <h3 align="center">A passionate fullstack developer from Arizona</h3>
