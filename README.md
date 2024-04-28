@@ -15,9 +15,6 @@
 <p align="left">
 </p>
 <a href="https://wakatime.com/@445db8e0-89e1-4518-9f33-81ecab125d99"><img src="https://wakatime.com/badge/user/445db8e0-89e1-4518-9f33-81ecab125d99.svg" alt="Total time coded since Apr 28 2024" /></a>
-
-
-Add the [@WakaTime](https://github.com/wakatime) badge ([![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)) to your GitHub profile by creating a GitHub repo named `username/username` then copy the snippet from your [public WakaTime profile](https://wakatime.com/me).
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <h3 align="left">Languages and Tools:</h3>
