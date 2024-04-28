@@ -1,3 +1,4 @@
+[![twitter](https://img.shields.io/twitter/follow/smg_211?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/smg_211) <a href="https://wakatime.com/@445db8e0-89e1-4518-9f33-81ecab125d99"><img src="https://wakatime.com/badge/user/445db8e0-89e1-4518-9f33-81ecab125d99.svg" alt="Total time coded since Apr 28 2024" /></a>
 <h1 align="center">Hi 👋, I'm Sabrina Mykrantz</h1>
 <h3 align="center">A passionate fullstack developer from Arizona</h3>
 
@@ -11,10 +12,11 @@
 
 - ⚡ Fun fact **I know a little Chinese Mandarin, Spanish, Japanese, and also have dabbled in Esperanto.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
-<a href="https://wakatime.com/@445db8e0-89e1-4518-9f33-81ecab125d99"><img src="https://wakatime.com/badge/user/445db8e0-89e1-4518-9f33-81ecab125d99.svg" alt="Total time coded since Apr 28 2024" /></a>
+
+
 
 
 <!--START_SECTION:waka-->
