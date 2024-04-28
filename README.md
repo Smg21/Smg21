@@ -15,6 +15,7 @@
 <p align="left">
 </p>
 <a href="https://wakatime.com/@445db8e0-89e1-4518-9f33-81ecab125d99"><img src="https://wakatime.com/badge/user/445db8e0-89e1-4518-9f33-81ecab125d99.svg" alt="Total time coded since Apr 28 2024" /></a>
+<div img = "https://wakatime.com/badge/user/445db8e0-89e1-4518-9f33-81ecab125d99.svg" />
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <h3 align="left">Languages and Tools:</h3>
