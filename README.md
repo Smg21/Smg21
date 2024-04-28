@@ -15,7 +15,7 @@
 <p align="left">
 </p>
 <a href="https://wakatime.com/@445db8e0-89e1-4518-9f33-81ecab125d99"><img src="https://wakatime.com/badge/user/445db8e0-89e1-4518-9f33-81ecab125d99.svg" alt="Total time coded since Apr 28 2024" /></a>
-[@smg_211](https://twitter.com/smg_211)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
