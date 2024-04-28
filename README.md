@@ -9,6 +9,8 @@
 - 🔭 I’m currently working on **A Recipe Website**
 
 - 🌱 I’m currently learning **Python while also completing my Full-Stack Web Development Bootcamp**
+  
+- 📚 I am also a Computer Science Student at University of the People 
 
 - 💬 Ask me about **React**
 
