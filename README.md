@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **Sbrnmykrntz@gmail.com**
 
-- ⚡ Fun fact **I know a little Chinese Mandarin, Spanish, Japanese, and also have dabbled in Esperanto.**
 
 
 <p align="left">
